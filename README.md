@@ -1,6 +1,6 @@
 # clement_bln__
 My personal repository
-- 👨‍💻 I'm currently working on Vagrant and Python
+- 👨‍💻 I'm currently working on Vagrant, Python and networking
 - 🌱 I'm currently learning YAML
 - 🤔 I'm looking for help with Python
 - 💬 Ask me about nothing
